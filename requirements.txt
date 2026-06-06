@@ -3,5 +3,5 @@ streamlit
 sql
 numpy
 pandas
-BeautifulSoup
+beautifulsoup4
 datetime
