@@ -1,0 +1,7 @@
+matplotlib
+streamlit
+sql
+numpy
+pandas
+BeautifulSoup
+datetime
